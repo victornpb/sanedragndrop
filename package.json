@@ -1,0 +1,32 @@
+{
+  "name": "sanedragndrop",
+  "version": "1.0.0",
+  "description": "This is an attempt to abstract the clumsiness of the drag and drop api.",
+  "main": "sanedragndrop.amd.js",
+  "scripts": {
+    "test": "echo \"OK: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victornpb/sanedragndrop.git"
+  },
+  "keywords": [
+    "drag",
+    "drop",
+    "api",
+    "dom",
+    "javascript",
+    "js",
+    "browser",
+    "html5"
+  ],
+  "author": "Victor Nunes <vitimus@gmail.com> (http://vitim.us)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/victornpb/sanedragndrop/issues"
+  },
+  "homepage": "https://github.com/victornpb/sanedragndrop#readme",
+  "dependencies": {
+    "grunt": "^1.0.1",
+  }
+}
